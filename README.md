@@ -14,23 +14,14 @@ Lightweight LSTM network trained for rapid prediction on character-tokenized URL
 
 📈 Visualizations
 The repo includes:
-
 Model performance comparison plots
-
 Distribution of URL features (length, dot count, sentiment, HTTPS)
-
 LSTM training accuracy/loss curves
 
 🧠 Future Enhancements
 Integrate WHOIS, DNS, and IP-based metadata
-
 Explore Transformer-based models (e.g., BERT, URLTran)
-
 Improve interpretability using SHAP/LIME
-
 Deploy using federated learning or real-time streaming (Kafka/Spark)
 
-🧑‍💻 Author
-Sachin Radder
-MSc in Cybersecurity
-National College of Ireland
+
